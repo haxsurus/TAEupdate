@@ -1,7 +1,8 @@
 {"version_code":9999999999,"content":"
-<p>🐉 T.A.E WHATSAPP 🐉/p>
+<p>🐉T.A.E WHATSAPP🐉</p>
 
 
 <l>Lista de cambios</li>
+Lolololollolo
 ","url":"https://wa.me/+18295537431"
 }
