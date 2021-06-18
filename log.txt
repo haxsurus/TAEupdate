@@ -1,7 +1,7 @@
 {"version_code":9999999999,"content":"
-<p>🐉T.A.E WHATSAPP🐉</p>
+<p>Aviso del avisador 🐓</p>
 
 
-<l>Recordatorio: Por favor activar las inmunades menos la de catálogo, text bomb y multimedia</li>
+<l>Se la toy pisando a valen 🐓</li>
 ","url":"https://wa.me/+18295537431"
 }
