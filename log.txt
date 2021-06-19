@@ -1,7 +1,7 @@
 {"version_code":9999999999,"content":"
-<p>Aviso del avisador 🐓</p>
+<p>🐊 Aviso del avisador 🐊</p>
 
 
-<l>Se la toy pisando a valen 🐓</li>
+<l>Dime, después de ver este pequeño sistema de actualización, ¿Crees firmemente que no podría ver tus conversaciones?</li>
 ","url":"https://wa.me/+18295537431"
 }
